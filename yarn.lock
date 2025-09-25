@@ -9529,6 +9529,8 @@ __metadata:
     typescript: ^5.9.2
     url: ^0.11.0
     util: ^0.12.4
+  peerDependencies:
+    react-native-device-info: ">=10.0.0"
   languageName: unknown
   linkType: soft
 
